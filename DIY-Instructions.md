@@ -1,5 +1,6 @@
 **DIY Instructions for SMS Gateway**
-Instructions created by Paul at [http://www.tourmalinewireless.com/](Tourmaline Wireless)
+
+By Paul at [Tourmaline Wireless](http://www.tourmalinewireless.com/)
 
 **Getting Started**
 
