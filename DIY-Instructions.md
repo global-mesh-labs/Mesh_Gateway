@@ -1,6 +1,17 @@
-**DIY Instructions for SMS Gateway**
+**DIY Instructions for Mesh Gateway**
 
 By Paul at [Tourmaline Wireless](http://www.tourmalinewireless.com/)
+
+**Parts List**
+
+*   Raspberry Pi4 Model B [$35](https://www.raspberrypi.org/products/raspberry-pi-4-model-b/?resellerType=home) (2 GB or more RAM)
+*   Class 10 microSD Card - 16 GB [$8](https://www.amazon.com/Sandisk-Ultra-Micro-UHS-I-Adapter/dp/B073K14CVB/ref=sr_1_3?dchild=1&keywords=class+10+micro+sd+card+16gb&qid=1606904845&sr=8-3)
+*   USB-C 15W Power Supply [$10](https://www.raspberrypi.org/products/type-c-power-supply/?resellerType=home)
+*   Sixfab Raspberry Pi 3G/4G & LTE Base HAT [$50](https://sixfab.com/product/raspberry-pi-base-hat-3g-4g-lte-minipcie-cards/)
+*   Twillio Multi-Size Super SIM Card [$3](https://www.twilio.com/console/wireless/orders/new)
+*   Twilio Phone Number [$1/month](https://www.twilio.com/console/phone-numbers/search) + usage fees
+
+Total cost: &lt; $120
 
 **Getting Started**
 
