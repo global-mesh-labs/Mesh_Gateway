@@ -2,7 +2,7 @@
 
 
 
-1. Submit name and the gmail account associated with your Android phone or tablet to be put on the Internal Testing list. 
+1. Email your name and the gmail account associated with your Android phone or tablet to [info@globalmeshlabs.org](mailto:info@globalmeshlabs.org) to be put on the Google Internal Testing list. 
 2. Install the [Mesh App](https://play.google.com/store/apps/details?id=org.globalmeshlabs.securesms) from the Google Play Store using the link: [https://play.google.com/apps/internaltest/4699601491912889909](https://play.google.com/apps/internaltest/4699601491912889909)
 
 
@@ -12,7 +12,7 @@
 
 
 3. If you already have a version of the [Signal App](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) installed, uninstall it.
-4. Install the Mesh App
+4. Install the Mesh App from the Google Play store [link](https://play.google.com/store/apps/details?id=org.globalmeshlabs.securesms&ah=2R5i8WWShy43on1mwjZA5-tqoC0).
 
 
 ![alt_text](images/image2.png "image_tooltip")
