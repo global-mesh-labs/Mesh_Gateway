@@ -13,6 +13,11 @@ By Paul at [Tourmaline Wireless](http://www.tourmalinewireless.com/)
 
 Total cost: &lt; $120
 
+**Also Needed**
+
+*   Micro SD Card USB Adapter [$10](https://www.amazon.com/s?k=Micro+Sd+Card+Usb+Adapter)
+*   [Belena Etcher](https://www.balena.io/etcher/) Software
+
 **Getting Started**
 
 Download Raspberry Pi OS:[ https://www.raspberrypi.org/downloads/raspberry-pi-os/](https://www.raspberrypi.org/downloads/raspberry-pi-os/)
