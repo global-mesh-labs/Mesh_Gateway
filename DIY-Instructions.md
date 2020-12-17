@@ -118,7 +118,9 @@ Press Enter key to reboot
 
 **Before proceeding to the next step, make sure you have a Twilio SIM card that has been preconfigured on[ www.twilio.com](http://www.twilio.com) See steps below for this portion
 
-—>Now insert configured SIM card into the Sixfab Hat and plug in the USB cable into the Raspberry PI on the following slot: (photo)
+—>Now insert configured SIM card into the Sixfab Hat and plug in the USB cable into the Raspberry PI on the following slot:
+
+![alt_text](images/image6.png "sixfab-twilio-install")
 
 cd files/quectel-CM
 
