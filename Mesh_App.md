@@ -10,13 +10,15 @@
 
 
 
-
-3. If you already have a version of the [Signal App](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) installed, uninstall it.
-4. Install the Mesh App from the Google Play store [link](https://play.google.com/store/apps/details?id=org.globalmeshlabs.securesms&ah=2R5i8WWShy43on1mwjZA5-tqoC0).
+3. Install the Mesh App from the Google Play store [link](https://play.google.com/store/apps/details?id=org.globalmeshlabs.securesms&ah=2R5i8WWShy43on1mwjZA5-tqoC0).
 
 
 ![alt_text](images/image2.png "image_tooltip")
 
+## How to create the DIY SMS Gateway
+
+  
+Follow the steps described in the [DIY Gateway Instructions](https://github.com/global-mesh-labs/Mesh_Gateway/blob/main/DIY-Instructions.md)
 
 
 ## How to use the GML Mesh App:
